@@ -198,27 +198,8 @@
 <h2><span id="wo_men_wei_he_fan_qiang">我们为何翻墙？</span></h2>
 <p>本站作者虽人在国外，基本已实现肉身翻墙，但我在此正告各位，<strong>我不是一个反中网站</strong>。很多年前我在国内的时候，翻墙是为了学习，为了工作，为了和国外的同学老师联络。我要翻墙学习是因为墙外有我需要的的学习资料，坦白说，我的好奇心让我不能满足于国内相对闭塞落后的在线教育和自我教育产品，“泊来品”二手资料的价值无法与墙外一手资料相比。我要翻墙工作，是因为这已经是全球化的世界，我在亚马逊开了一个小外贸网店，客户来自欧美十几个国家，为了打理好生意，我必须能随时与我国外的人联系，不管他们是平台客服，合作伙伴，还是顾客，也不管他们用Facebook，Twitter，还是Gmail，我必须翻墙，否则我的网店就得停转。</p>
 <div style="color:#32373c;background-color:#ff3860" class="wp-block-genesis-blocks-gb-notice gb-font-size-18 gb-block-notice" data-id="5e5432"><div class="gb-notice-text" style="border-color:#ff3860"><p>诋毁中国的那些所谓“自由中立”的西方媒体和唯恐中国不乱的蹩脚民运人士，不是我翻墙的目的。 没错，<strong>这是一个介绍科学上网方法的网站</strong>，<strong>但这不是一个反中网站</strong>，别误会，请海外恨中国的人离远一点。</p></div></div>
-<p>它们的报道的确很“自由”，它们可以“自由”地歪曲事实，“自由”地诋毁一个国家，“自由”地制造混乱、仇恨和死亡。我很清楚，现在的西方世界在我看来，只有立场和偏见而早已没有正义可言。很不幸我还生活在国外，打开电视机，西方人对中国的敌视就像他们的无知与傲慢一样普遍。我并不惊讶，我还看到西方社会对本国人民的无视，而这让我十分失望。我以前也是个愤青，那时候我翻墙是为了找到与我的愤怒一致的人，但在国外待了很长一段时间后，我不再这样。我对那些东西没兴趣了，免疫了，我翻墙就是为了学习和工作。如果你想知道西方社会是如何系统地把媒体武器化的，请看这个视频：</p>
-<figure class="wp-block-video presto-block-video  presto-provider-youtube" style="--plyr-color-main: #00b3ff; --presto-player-logo-width: 150px; ">
-<presto-player id="presto-player-1" src="//www.youtube.com/embed/EuwmWnphqII?iv_load_policy=3&amp;modestbranding=1&amp;playinline=0&amp;showinfo=0&amp;rel=0&amp;enablejsapi=1" css="" class="presto-video-id-2 presto-preset-id-5 skin-stacked" skin="stacked" icon-url="https://www.wallmama.com/wp-content/plugins/presto-player/img/sprite.svg" preload="" poster="//img.youtube.com/vi/EuwmWnphqII/maxresdefault.jpg">
-</presto-player>
-</figure> <script>
-            var player = document.querySelector('presto-player#presto-player-1');
-            player.video_id = 2;
-                                                player.preset = {"id":5,"name":"Youtube Optimized","slug":"youtube","icon":"youtube","skin":"stacked","play-large":true,"rewind":true,"play":true,"fast-forward":true,"progress":true,"current-time":true,"mute":true,"volume":true,"speed":true,"pip":false,"fullscreen":true,"auto_hide":true,"save_player_position":false,"sticky_scroll":false,"hide_youtube":false,"lazy_load_youtube":true,"hide_logo":false,"border_radius":0,"caption_style":"","caption_background":"","is_locked":true,"created_by":2,"created_at":"2021-05-06 16:02:42","updated_at":"2021-05-13 13:52:05","deleted_at":"","reset_on_end":true,"email_collection":[""],"captions_enabled":false,"sticky_scroll_position":"","cta":[""],"captions":false,"play_video_viewport":false,"watermark":[""],"on_video_end":""};
-                                                                player.chapters = [];
-                                                                player.overlays = [];
-                                                                player.tracks = [];
-                                                                player.branding = {"logo":"","color":"#00b3ff","logo_width":150};
-                                                                player.blockAttributes = {"id":2,"src":"https:\/\/www.youtube.com\/watch?v=EuwmWnphqII","preset":5,"video_id":"EuwmWnphqII","color":"#00b3ff","pip":true,"fullscreen":true,"captions":false,"hideControls":true,"playLarge":true,"chapters":[],"overlays":[],"speed":true,"title":""};
-                                                                                            player.skin = "stacked";
-                                                                player.analytics = false;
-                                                                player.automations = true;
-                                                                player.provider = "youtube";
-                                                                player.video_id = 2;
-                                                                player.provider_video_id = "EuwmWnphqII";
-                                                                player.youtube = {"noCookie":false,"channelId":"","show_count":false};
-                                    </script>
+<p>它们的报道的确很“自由”，它们可以“自由”地歪曲事实，“自由”地诋毁一个国家，“自由”地制造混乱、仇恨和死亡。我很清楚，现在的西方世界在我看来，只有立场和偏见而早已没有正义可言。很不幸我还生活在国外，打开电视机，西方人对中国的敌视就像他们的无知与傲慢一样普遍。我并不惊讶，我还看到西方社会对本国人民的无视，而这让我十分失望。我以前也是个愤青，那时候我翻墙是为了找到与我的愤怒一致的人，但在国外待了很长一段时间后，我不再这样。我对那些东西没兴趣了，免疫了，我翻墙就是为了学习和工作。</p>
+
 <p></p>
 <h2><span id="ke_xue_shang_wang_de_yi_yi">科学上网的意义</span></h2>
 <p><a href="https://en.wikipedia.org/wiki/Google_China" class="ek-link" target="_blank" rel="noopener">Google撤出中国</a>，但别忘了，谷歌作为中文搜索引擎，仍然存在，只不过它在墙外存在。我们很多人都会同意，单从Web搜索引擎的能力，谷歌仍然是目前检索质量最高最公正可靠的中文搜索引擎，他们知道百度不可靠、不可信，所以很多人科学上网的首站就是google.com。</p>
