@@ -1,4 +1,4 @@
-##
+## jar
 
 PRG="$0"
 while [ -h "$PRG" ] ; do
