@@ -344,4 +344,4 @@
  #### TODO 本文不定期更新，老铁们可以关注
  #### [https://github.com/fqmama/fanqiang](https://github.com/fqmama/fanqiang)
  
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=fqmama.fanqiang&left_color=green&right_color=red)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=fqmama.tizi&left_color=green&right_color=red)
