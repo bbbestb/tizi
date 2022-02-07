@@ -295,7 +295,7 @@
 <h3><span id="xiu_gaiHOST_fang_wen_mou_xie_wang_zhan">修改HOST访问某些网站</span></h3>
 <div class="i2-pros-cons-icons i2-pros-cons-main-wrapper theme-i2pc-theme-00 no-title no-button no-space-between-column no-outer-border no-round-corner no-heading-icon"><div class="i2-pros-cons-wrapper"><div class="i2-pros"><strong class="i2-pros-title">优点</strong><div class="section"><ul class="has-icon"><li><i class="icon icon-thumbs-o-up"></i>在某些场景下特别有用，比如快速解封访问某个特定网站，这些网站只是被域名污染，修改hosts强制域名解析到正确的IP是快且有效的方法</li></ul></div></div><div class="i2-cons"><strong class="i2-cons-title">缺点</strong><div class="section"><ul class="has-icon"><li><i class="icon icon-thumbs-o-down"></i>无法应对更复杂的屏蔽场景，作用极为受限</li></ul></div></div></div></div>
 
- [感谢老铁的阅读和关注👍👍👍](https://github.com/fqmama/fanqiang)
+ [感谢老铁的阅读和关注👍👍👍](https://github.com/fqmama/tizi)
  
 <h2 id="locations"><span id="fan_qiang_jie_dian_dian_ping_xiang_gang_tai_wan_ri_ben_xin_jia_po_han_guo_mei_guo_deng">翻墙节点点评：香港，台湾，日本，新加坡，韩国，美国等</span></h2>
 <p>好用的翻墙节点大都集中在<strong>香港、台湾、日本、新加坡、韩国和美国</strong>（西部）这几个地方，不排除有些较冷门的城市偶尔也能连，但一般速度不理想。</p>
@@ -342,6 +342,6 @@
  ----
  
  #### TODO 本文不定期更新，老铁们可以关注
- #### [https://github.com/fqmama/fanqiang](https://github.com/fqmama/fanqiang)
+ #### [https://github.com/fqmama/tizi](https://github.com/fqmama/tizi)
  
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=fqmama.tizi&left_color=green&right_color=red)
