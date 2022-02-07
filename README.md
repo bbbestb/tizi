@@ -8,7 +8,6 @@
 <div class="entry-content clear" itemprop="text">
 <div class="lwptoc lwptoc-inherit" data-smooth-scroll="1" data-smooth-scroll-offset="100"><div class="lwptoc_i"> <div class="lwptoc_header">
 <b class="lwptoc_title">导航</b> <span class="lwptoc_toggle">
-<a href="#" class="lwptoc_toggle_label" data-label="显示">隐藏</a>
 </span>
 </div>
 <div class="lwptoc_items lwptoc_items-visible">
