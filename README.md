@@ -270,27 +270,7 @@
 <h3><span id="Trojan"><a href="https://trojan-gfw.github.io/trojan/" class="ek-link" target="_blank" rel="noopener">Trojan</a></span></h3>
 <p>Trojan技术另辟蹊径，和依赖强加密和复杂混淆算法穿墙的技术不同，它将网络流量伪装成普通HTTPS流量，从Trojan客户端发出的请求和响应，在GFW眼里和访问普通HTTPS网站的请求和响应并无二至，这项技术允许服务器端绑定域名，并为域名分配正常网站都会有的SSL证书，从而达到了瞒天过海的目的。</p>
 <div class="i2-pros-cons-icons i2-pros-cons-main-wrapper theme-i2pc-theme-00 no-title no-button no-space-between-column no-outer-border no-round-corner no-heading-icon"><div class="i2-pros-cons-wrapper"><div class="i2-pros"><strong class="i2-pros-title">优点</strong><div class="section"><ul class="has-icon"><li><i class="icon icon-thumbs-o-up"></i>由于流量通过正常HTTPS协议，因为HTTPS网站的普遍性迫使防火墙很难在协议层面拦截，否则将滥“杀”无辜网站，影响社会正常经济生活，墙虽然高，但有些网站是中国必须能够访问的。</li></ul></div></div><div class="i2-cons"><strong class="i2-cons-title">缺点</strong><div class="section"><ul class="has-icon"><li><i class="icon icon-thumbs-o-down"></i>其实通过伪装HTTPS流量来翻墙的技术早就有，因为防火墙DPI（<a target="_blank" href="https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E#%E6%B7%B1%E5%BA%A6%E5%8C%85%E6%AA%A2%E6%B8%AC" rel="noopener">深度包检测</a>）技术的存在，这类技术的实际穿墙能力可能大大弱于理论值，读者<strong>不必太乐观</strong>。</li><li><i class="icon icon-thumbs-o-down"></i>和其它自己搭建梯子的方法一样，对广大用户先天存在可操作性差的问题，Trojan的配置负担相比SSR，V2Ray等技术还要更大一些。</li><li><i class="icon icon-thumbs-o-down"></i>生态还不成熟，客户端支持不够好，根据我对这类技术的了解，它很难产生完全跨平台的，体验一致的大客户端。</li></ul></div></div></div></div>
-<p>如果你对Trojan技术的安装配置和使用感兴趣，可以看<a rel="nofollow noopener noreferrer" href="https://trojan-tutor.github.io/2019/04/10/p41.html" class="rank-math-link" target="_blank">这篇文章</a>。你也可以观看下面的Youtube视频介绍：</p>
-<figure class="wp-block-video presto-block-video  presto-provider-youtube" style="--plyr-color-main: #00b3ff; --presto-player-logo-width: 150px; ">
-<presto-player id="presto-player-2" src="//www.youtube.com/embed/iLIeCySqj7Q?iv_load_policy=3&amp;modestbranding=1&amp;playinline=0&amp;showinfo=0&amp;rel=0&amp;enablejsapi=1" css="" class="presto-video-id-4 presto-preset-id-5 skin-stacked" skin="stacked" icon-url="https://www.wallmama.com/wp-content/plugins/presto-player/img/sprite.svg" preload="" poster="//img.youtube.com/vi/iLIeCySqj7Q/maxresdefault.jpg">
-</presto-player>
-</figure> <script>
-            var player = document.querySelector('presto-player#presto-player-2');
-            player.video_id = 4;
-                                                player.preset = {"id":5,"name":"Youtube Optimized","slug":"youtube","icon":"youtube","skin":"stacked","play-large":true,"rewind":true,"play":true,"fast-forward":true,"progress":true,"current-time":true,"mute":true,"volume":true,"speed":true,"pip":false,"fullscreen":true,"auto_hide":true,"save_player_position":false,"sticky_scroll":false,"hide_youtube":false,"lazy_load_youtube":true,"hide_logo":false,"border_radius":0,"caption_style":"","caption_background":"","is_locked":true,"created_by":2,"created_at":"2021-05-06 16:02:42","updated_at":"2021-05-13 13:52:05","deleted_at":"","reset_on_end":true,"email_collection":[""],"captions_enabled":false,"sticky_scroll_position":"","cta":[""],"captions":false,"play_video_viewport":false,"watermark":[""],"on_video_end":""};
-                                                                player.chapters = [];
-                                                                player.overlays = [];
-                                                                player.tracks = [];
-                                                                player.branding = {"logo":"","color":"#00b3ff","logo_width":150};
-                                                                player.blockAttributes = {"id":4,"src":"https:\/\/www.youtube.com\/watch?v=iLIeCySqj7Q","preset":5,"video_id":"iLIeCySqj7Q","color":"#00b3ff","pip":true,"fullscreen":true,"captions":false,"hideControls":true,"playLarge":true,"chapters":[],"overlays":[],"speed":true,"title":""};
-                                                                                            player.skin = "stacked";
-                                                                player.analytics = false;
-                                                                player.automations = true;
-                                                                player.provider = "youtube";
-                                                                player.video_id = 4;
-                                                                player.provider_video_id = "iLIeCySqj7Q";
-                                                                player.youtube = {"noCookie":false,"channelId":"","show_count":false};
-                                    </script>
+<p>如果你对Trojan技术的安装配置和使用感兴趣，可以看<a rel="nofollow noopener noreferrer" href="https://trojan-tutor.github.io/2019/04/10/p41.html" class="rank-math-link" target="_blank">这篇文章</a>。
 <h2><span id="qi_ta_ke_xue_shang_wang_gong_ju_dian_ping">其他科学上网工具点评</span></h2>
 <p>下面列举的这些翻墙工具或方法可能已经失效，请读者注意分辨。我应该不会专门去一一测试这些工具，因为并不主流，而且也很难做到长期安全有效。</p>
 <h3><span id="wu_jie_liu_lan">无界浏览</span></h3>
