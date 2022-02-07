@@ -21,7 +21,7 @@
 <span class="lwptoc_item_label">本文导读</span>
 </a>
 </li></ul></li><li class="lwptoc_item"> <a href="#fan_qiang_shi_fou_wei_fa">
-<span class="lwptoc_item_label">💚💚 翻墙是否违法？ 💚💚</span>
+<span class="lwptoc_item_label">❤❤ 翻墙是否违法？ ❤❤</span>
 </a>
 </li><li class="lwptoc_item"> <a href="#zhong_guo_an_quan_fan_qiang_shang_wang_xu_zhi">
 <span class="lwptoc_item_label">中国安全翻墙上网须知</span>
@@ -30,7 +30,7 @@
 <span class="lwptoc_item_label">不要在国内网络散布信息</span>
 </a>
 </li><li class="lwptoc_item"> <a href="#jing_ti_wang_shang_suo_wei_mian_feiVPNmian_fei_jie_dian">
-<span class="lwptoc_item_label">💚💚 警惕网上所谓“免费VPN”，“免费节点” 💚💚</span>
+<span class="lwptoc_item_label">❤❤ 警惕网上所谓“免费VPN”，“免费节点” ❤❤</span>
 </a>
 </li><li class="lwptoc_item"> <a href="#jin_liang_bu_yao_yong_guo_chan_ruan_jian">
 <span class="lwptoc_item_label">尽量不要用国产软件</span>
