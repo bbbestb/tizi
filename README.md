@@ -1,11 +1,11 @@
 ### 快捷购买入口：
 
-|  梯子推荐榜   | 官网地址  | 备用网址 |
-|  ----  | ----  | ---- |
-| Nord梯子 | [NordVPN](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitfqmama&aff_click_id=tizi) | [NordVPN](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitfqmama&aff_click_id=tizi) |
-| Express梯子 | [ExpressVPN](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi) | [ExpressVPN](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi) |
-| Ivacy梯子 | [IvacyVPN](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitfqmama&data2=tizi) | [IvacyVPN](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitfqmama&data2=tizi) |
-| 熊猫梯子 | [PandaVPN](https://pandavpnpro.com/r/22216799) | [PandaVPN](https://pandavpnpro.com/r/22216799) |
+|  梯子推荐榜   | 官网地址  | 备用网址1 | 备用网址2 |
+|  ----  | ----  | ---- | ---- |
+| Nord梯子 | [NordVPN](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitfqmama&aff_click_id=tizi) | [NordVPN](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitfqmama&aff_sub2=tizi) | |
+| Express梯子 | [ExpressVPN](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi) | [ExpressVPN](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi) | |
+| Ivacy梯子 | [IvacyVPN](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitfqmama&data2=tizi) | [IvacyVPN](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitfqmama/tizi) | [IvacyVPN](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitfqmama&data2=tizi) |
+| 熊猫梯子 | [PandaVPN](https://www.pankvyh.xyz/r/22216799) | [PandaVPN](https://www.pantoto.xyz/r/22216799) | [PandaVPN](https://www.panhdpe.xyz/r/22216799) |
 
 <div id="content" class="site-content">
 <div class="ast-container">
