@@ -1,3 +1,12 @@
+### 快捷购买入口：
+
+|  梯子推荐榜   | 官网地址  | 备用网址 |
+|  ----  | ----  |
+| Nord梯子 | [NordVPN](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitfqmama&aff_click_id=tizi) | [NordVPN](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitfqmama&aff_click_id=tizi) |
+| Express梯子 | [ExpressVPN](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi) | [ExpressVPN](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi) |
+| Ivacy梯子 | [IvacyVPN](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitfqmama&data2=tizi) | [IvacyVPN](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitfqmama&data2=tizi) |
+| 熊猫梯子 | [PandaVPN](https://pandavpnpro.com/r/22216799) | [PandaVPN](https://pandavpnpro.com/r/22216799) |
+
 <div id="content" class="site-content">
 <div class="ast-container">
 <div id="primary" class="content-area primary">
