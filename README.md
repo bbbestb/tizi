@@ -181,11 +181,11 @@
 <h2><span id="2022nian_ru_he_fan_qiang">2022年如何翻墙</span></h2>
 <ol class="is-style-starred has-list-bullet-color" style="--ek-bullet-color:#000000">
 
-<li>如果你能买到<a href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi class="ek-link" rel="nofollow noopener" target="_blank"" class="ek-link">ExpressVPN</a>，用它翻墙是最可靠的。设备支持非常全（Windows、Mac、Linux、Android、iPhone、路由器 …），安全性高，隐私保护有保障。前两年这个VPN的连通率和速度都不快，但自从加入Lightway协议后连通率和速度大幅提升，这是我自己每次回国前必买的工具，<a href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi class="ek-link" rel="nofollow noopener" target="_blank"" class="ek-link" rel="nofollow noopener" target="_blank">长期使用有优惠</a>。ExpressVPN的提供香港、日本、美国洛杉矶、新加坡四处节点，香港、洛杉矶、日本的连通率和稳定性最佳。</li>
+<li>如果你能买到<a href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi" class="ek-link" rel="nofollow noopener" target="_blank">ExpressVPN</a>，用它翻墙是最可靠的。设备支持非常全（Windows、Mac、Linux、Android、iPhone、路由器 …），安全性高，隐私保护有保障。前两年这个VPN的连通率和速度都不快，但自从加入Lightway协议后连通率和速度大幅提升，这是我自己每次回国前必买的工具，<a href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi" class="ek-link" rel="nofollow noopener" target="_blank">长期使用有优惠</a>。ExpressVPN的提供香港、日本、美国洛杉矶、新加坡四处节点，香港、洛杉矶、日本的连通率和稳定性最佳。</li>
 
-<li>其次的选择是，<a href="http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitfqmama&aff_sub2=tizi class="ek-link" rel="nofollow noopener" target="_blank"" class="ek-link">NordVPN</a>第一梯队的老牌梯子，线路相对稳定，一键连接很方便。经常搞搞活动，价格适中，性价比很高。</li>
+<li>其次的选择是，<a href="http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitfqmama&aff_sub2=tizi" rel="nofollow noopener" target="_blank" class="ek-link">NordVPN</a>第一梯队的老牌梯子，线路相对稳定，一键连接很方便。经常搞搞活动，价格适中，性价比很高。</li>
 
-<li>如果你预算充足，也可以考虑<a href="https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitfqmama&data2=tizi class="ek-link" rel="nofollow noopener" target="_blank"" class="ek-link">IvacyVPN</a>，这是目前国内很多老外在用的VPN。这个VPN非常低调，但一直保持着较高的连通率，据我国内的朋友反馈，多数时候速度也不错，缺点是设备支持相对没那么全，价钱偏贵。</li>
+<li>如果你预算充足，也可以考虑<a href="https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitfqmama&data2=tizi" class="ek-link" rel="nofollow noopener" target="_blank">IvacyVPN</a>，这是目前国内很多老外在用的VPN。这个VPN非常低调，但一直保持着较高的连通率，据我国内的朋友反馈，多数时候速度也不错，缺点是设备支持相对没那么全，价钱偏贵。</li>
 
 <li>如果你买不到ExpressVPN等，你可以考虑用<a href="https://www.pankvyh.xyz/r/22216799" class="ek-link" rel="nofollow noopener" target="_blank">PandaVPN</a>，国内应该还可以买到。这应该是目前翻墙节点最多的类SSR科学上网工具，付费版提供的SVIP节点覆盖香港、台湾、韩国、日本、美国等到中国大陆最理想的线路。实用的智能模式可以只代理被墙网站。缺点是隐私政策不是很透明，个人觉得不适合对上网数据安全特别敏感的用户。</li>
 
