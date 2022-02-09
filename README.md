@@ -191,7 +191,8 @@
 
 
 
-<li>如果你不想花太多钱买商业VPN，而更喜欢自己架设，或者用自己的客户端软件，那么你可以考虑用SSR翻墙，自己架设的服务器有较大风险被墙，建议用更加可靠的商业节点如JustMysocks<!--<a href="https://indx.cc/justmyscoks" class="ek-link" rel="nofollow noopener" target="_blank">JustMySocks</a>-->。</li>
+<li>如果你不想花太多钱买商业VPN，而更喜欢自己架设，或者用自己的客户端软件，那么你可以考虑用SSR翻墙，自己架设的服务器有较大风险被墙，建议用更加可靠的商业节点如<a href="https://justmysocks.net/members/aff.php?aff=15216
+" class="ek-link" rel="nofollow noopener" target="_blank">JustMySocks</a>。</li>
 </ol>
 
 <!--
