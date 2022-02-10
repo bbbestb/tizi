@@ -212,6 +212,14 @@
 <p>如果违法，那中国政府就有几千万人要抓，经济上没有可行性。如果强制立法翻墙违法，中国政府也不会不知道其中的政治代价，除非它想让整个中国进入黑暗时代。所以基本上个人翻墙违不违法是个伪命题，日常查个Gmail，看个Youtube没必要提心吊胆，不要被网络上所谓“翻墙罪”危言耸听蛊惑，这多是国外无良媒体想带节奏。但是，私自开设翻墙设备盈利，或者大面积分发翻墙下载包的，无论何种渠道，迟早被查，案例已经有不少，<strong>千万不要侥幸</strong>：</p>
 <ul><li><a href="https://chinadigitaltimes.net/chinese/2019/11/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E4%B8%BA%E8%BF%913%E4%B8%87%E4%BA%BA%E6%8F%90%E4%BE%9Bvpn%E7%BF%BB%E5%A2%99%E6%9C%8D%E5%8A%A1%EF%BC%8C%E7%94%B7%E5%AD%90%E8%A2%AB%E6%9D%AD%E5%B7%9E/" class="ek-link" target="_blank" rel="noopener">为近3万人提供VPN“翻墙”服务，男子被杭州检方批捕</a></li><li><a href="https://www.youtube.com/watch?v=gnyHduWq5Ko" class="ek-link" target="_blank" rel="noopener">逗比根据地作者被起诉</a></li><li><a href="https://www.williamlong.info/archives/5239.html" class="ek-link" target="_blank" rel="noopener">男子销售SS软件获刑</a></li><li><a href="https://lusongsong.com/blog/post/9095.html" class="ek-link" target="_blank" rel="noopener">网际飞梭作者被抓</a></li><li><a href="https://www.49gm.org/%E5%A2%99%E5%A4%96%E6%A5%BC%E7%BD%91%E7%AB%99%E6%89%93%E4%B8%8D%E5%BC%80%EF%BC%8C%E6%9C%89%E6%B2%A1%E6%9C%89%E6%9B%BF%E4%BB%A3%E9%95%9C%E5%83%8F%EF%BC%9F/" class="ek-link" target="_blank" rel="noopener">墙外楼网站关闭</a> </li><li><a href="https://zh.wikipedia.org/zh/Shadowsocks" class="ek-link" target="_blank" rel="noopener">ShadowSocks作者被请喝茶</a></li></ul>
 <p>都是真实的案例，因为涉及的网站、软件被撤或被关是能直接观察到，且有几位涉事者后来都有澄清，所以可以确定不是空穴来风。据我所知，知乎上甚至有人因为卖建站主机入狱的，原因是名下的建站主机公司销售香港地区的服务器，被大量客户买去翻墙用，最终导致公司被关，自己也坐了一年的牢。如果你的心里正酝酿着做翻墙的生意，还是就此打住吧，如果你是网络主机提供商，也要管好自己的服务器，如果你是身怀绝技的码农，最好也别碰这类软件的开发，除非你已人肉翻墙，以后不打算回国了。</p>
+ 
+|  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
+|  ----  | ----  | ---- | ---- | ---- |
+| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitfqmama&aff_click_id=tizi) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitfqmama&aff_sub2=tizi) | - |
+| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi) | - |
+| Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitfqmama&data2=tizi) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitfqmama/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitfqmama&data2=tizi) |
+| 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) | 
+ 
 <h2><span id="zhong_guo_an_quan_fan_qiang_shang_wang_xu_zhi">中国安全翻墙上网须知</span></h2>
 <h3><span id="bu_yao_zai_guo_nei_wang_luo_san_bu_xin_xi">不要在国内网络散布信息</span></h3>
 <p>你有一个好用的工具，或者有一组闲置的服务器，可以私下里分享给朋友使用，但绝对不要在微信、微博、知乎，简书等国内网络社区里散布，后果轻则删贴封号，重则 … 其实没人知道，不排除被请喝茶，罚款，甚至牢狱之灾。其实往往是你越分享的东西失效地越快，尤其是SSR私服，国内所有网站都有人工审查，IP地址一旦被注意到，很快会被墙。</p>
@@ -247,6 +255,16 @@
 <p>你也许对世界并不感兴趣，觉得中国的是最好的，也许你并非这样觉得，而只是感到中国的够用了。的确，有很多东西，中国的确实是最好的，但有很多东西，世界的更好，好很多，你得尝试往外边看它们一眼。很多时候的确中国的够用了，但如果我们让生活停留在够用，就会错过它是多么丰富。</p>
 <p>也许你没能成功翻墙的原因，是因为你一直都不想为这件事花钱，你觉得翻墙软件不值得你为它花钱，好吧，如果是这样，恐怕你永远也无法痛快地科学上网了。因为几年前我也这样想，免费的翻墙的工具不知道试过多少个了，不知道浪费了多少时间。</p>
 <p>我可以很负责任的说，现在没有可靠的免费翻墙软件，将来也不会有。也许有哪些能让你临时上外网的，但这些产品的服务是无法持久的。</p>
+ 
+
+ |  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
+|  ----  | ----  | ---- | ---- | ---- |
+| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitfqmama&aff_click_id=tizi) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitfqmama&aff_sub2=tizi) | - |
+| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi) | - |
+| Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitfqmama&data2=tizi) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitfqmama/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitfqmama&data2=tizi) |
+| 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
+ 
+ 
 <h2><span id="shen_me_shi_min_gan_shi_qi">什么是敏感时期？</span></h2>
 <p>所谓“敏感时期”就是翻墙软件具体失灵的时期，敏感时期内几乎所有科学上网的企图都会破灭，所有的软件会遭遇禁闭，连不上，速度极慢，频繁断线等问题集中出现，这些时候基本上中国互联网处于“军事戒严”状态，信息出入境极其不自由，是技术上的国家局域网，每次敏感时期可持续约1-2周后恢复，大家有都可以像什么都没发生过那样翻墙科学上网了。</p>
 <h3><span id="mei_nian_chun_jie_qi_jian">每年春节期间</span></h3>
