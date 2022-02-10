@@ -347,25 +347,35 @@
 <h3><span id="han_guo">韩国</span></h3>
 <p>韩国节点类似台湾，数量少，不好找，但是连接块，但是我测过同款翻墙产品的台湾，日本，新加坡节点的速度，明显快过韩国节点的，稳定性时好时坏，测过VyprVPN的韩国节点可怜，其余的没连上过，个人不推荐韩国节点，虽然延时低，但好不好用不好讲。</p>
 <h3><span id="xiao_jie">小结</span></h3>
-<ol><li>除香港与台湾节点外，其余节点我认为都不适合用作游戏翻墙使用，日本机房的Ping值已经普遍在150ms或以上，也不适合玩游戏</li><li>上面所有节点只要连上都可看油管视频，只不过个别软件的个别节点缓冲率稍高，但720p下缓冲都不多，视频很流畅，1080p缓冲会常见一点</li><li>香港、日本、美西节点应该是翻墙首选，其它地区的节点可以偶尔拿来使用</li><li><a href="https://indx.cc/exp" class="ek-link" rel="nofollow noopener" target="_blank">ExpressVPN</a>的最佳节点为香港、日本、美国洛杉矶，<a href="https://indx.cc/pandavpn" class="ek-link" rel="nofollow noopener" target="_blank">PandaVPN</a>的最佳节点为香港备用节点，不管你用什么科学上网工具，香港应该是第一选择</li></ol>
+<ol><li>除香港与台湾节点外，其余节点我认为都不适合用作游戏翻墙使用，日本机房的Ping值已经普遍在150ms或以上，也不适合玩游戏</li><li>上面所有节点只要连上都可看油管视频，只不过个别软件的个别节点缓冲率稍高，但720p下缓冲都不多，视频很流畅，1080p缓冲会常见一点</li><li>香港、日本、美西节点应该是翻墙首选，其它地区的节点可以偶尔拿来使用</li><li><a href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi" class="ek-link" rel="nofollow noopener" target="_blank">ExpressVPN</a>的最佳节点为香港、日本、美国洛杉矶，<a href="https://www.pantoto.xyz/r/22216799" class="ek-link" rel="nofollow noopener" target="_blank">PandaVPN</a>的最佳节点为香港备用节点，不管你用什么科学上网工具，香港应该是第一选择</li></ol>
 <h2><span id="qiang_ma_ma_ping_shi_ru_he_fan_qiang">我平时如何翻墙</span></h2>
 <p>我的情况可能比大多数人复杂，所以需求也比较多。首先我一年大概有四分之三的时间生活在国外，其余时间（主要是中国传统节日）回中国探亲休假，在国外我主要在纽约和西雅图之间颠簸，一年五六次的样子，偶尔会去加拿大。回国的时候，我的航班经常过北京和上海，也经常在这两个城市中转或逗留更长时间，一般不超过一周，主要就是找那里的小伙伴闲话家常，然后回西安和家人团聚，在哪里停留三到四周的时间，期间可能会到国内别的城市（如成都）去玩。</p>
-<p>我在国外的时候要<a href="https://www.wallmama.com/%e7%bf%bb%e5%a2%99%e5%9b%9e%e5%9b%bd/" class="ek-link">翻墙回国</a>刷B站有版权保护的资源，Youku不是我的菜，但我用网易云音乐还算比较多，有时候新浪微博也会有IP限制（我不知道为什么），国外IP会无法正常登陆。而等我到了国内，我又得切换到翻墙到国外模式，所以一般在上飞机前要提前准备好上网工具，我的安卓和iPhone手机里装着几十个工具，听起来是不是很狗血？但没办法， 我在两头停留的时间都不短，所以只能长期忍受两头翻墙的苦恼。o.o!</p>
+<p>我在国外的时候要翻墙回国刷B站有版权保护的资源，Youku不是我的菜，但我用网易云音乐还算比较多，有时候新浪微博也会有IP限制（我不知道为什么），国外IP会无法正常登陆。而等我到了国内，我又得切换到翻墙到国外模式，所以一般在上飞机前要提前准备好上网工具，我的安卓和iPhone手机里装着几十个工具，听起来是不是很狗血？但没办法， 我在两头停留的时间都不短，所以只能长期忍受两头翻墙的苦恼。o.o!</p>
 <p>反复折腾这几年，<strong>这是我总结出来的翻墙策略</strong>，也许对你有用：</p>
 <h3><span id="ping_shi_yongVPN">平时用VPN</span></h3>
 <p>单说穿墙能力，VPN不一定不是最强的，但我还是推荐平时用VPN，<strong>因为VPN客户端用起来最舒服</strong>，自动检测最快节点，断线自动重连，重连自动打开流量泄露保护，客户端傻瓜式更新安装 … 这些小功能加起来就是两个字“<strong>舒服</strong>”，软件好用，学习工作更愉悦，我懂一点电脑，但还没有懂到能天天和一个第三方软件的配置折腾较劲的水平。</p>
 <p>我现在用的VPN主要是：</p>
-<ul><li><a href="https://indx.cc/exp" class="ek-link" rel="nofollow noopener" target="_blank">ExpressVPN</a>：回国往外翻的时候用，已经用了5+年，很满意，也不打算换 （可惜2020年9月起国内已经没有可直接打开购买的镜像了，须先用免费工具翻墙后用国外IP才能购买）</li><li><a href="https://indx.cc/pandavpn" class="ek-link" rel="nofollow noopener" target="_blank">PandaVPN</a>：可以两头翻墙，最近（2019年）发现的工具，已经买了两年，用了几个月了，很满意，继续观察</li><li><a href="https://indx.cc/nrd" class="ek-link" rel="nofollow noopener" target="_blank">NordVPN</a>：这个东西一直都不怎么好用的，但2020年后，经过开发团队的努力，终于抛弃了对Obfuscated Server的依赖，现在变得挺好用了</li><li><a href="https://indx.cc/ivy" class="ek-link" rel="nofollow noopener" target="_blank">Ivacy</a>：用来翻墙到中国，大陆节点偶尔会不能用，但用了两年下来，还好，注意这个工具无法翻墙到国外（有读者反馈，现在也可以翻墙到国外了）</li><li><a href="https://indx.cc/pure" class="ek-link" rel="nofollow noopener" target="_blank">PureVPN</a>：原来只是翻墙回国工具，发现用来看B站速度不错，所以一直用着，也快两年了，最近这个工具也可以翻墙到国外了 🙂</li></ul>
+<ul>
+ <li><a href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi" class="ek-link" rel="nofollow noopener" target="_blank">ExpressVPN</a>：回国往外翻的时候用，已经用了5+年，很满意，也不打算换 （可惜2020年9月起国内已经没有可直接打开购买的镜像了，须先用免费工具翻墙后用国外IP才能购买）</li>
+ 
+ <li><a href="https://www.pantoto.xyz/r/22216799" class="ek-link" rel="nofollow noopener" target="_blank">PandaVPN</a>：可以两头翻墙，最近（2019年）发现的工具，已经买了两年，用了几个月了，很满意，继续观察</li>
+ 
+ <li><a href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitfqmama&aff_click_id=tizi" class="ek-link" rel="nofollow noopener" target="_blank">NordVPN</a>：这个东西以前不怎么好用，但2020年后，经过开发团队的努力，终于抛弃了对Obfuscated Server的依赖，现在变得挺好用了</li>
+ 
+ <li><a href="https://indx.cc/ivy" class="ek-link" rel="nofollow noopener" target="_blank">Ivacy</a>：相对比较低调，价格中上，可以作为备用的选择</li>
+ 
+
+ </ul>
 <p>ExpressVPN我用香港3，香港4，东京3等节点，不好连了换一个，基本不需要其它节点。电脑、手机上连香港大概平均40秒内连上，家里Wifi，手机4G网络都会偶尔断线，但绝大多数时候App能自动成功重连，<strong>基本可以顾自己做事</strong>，不用想“我现在能不能翻墙，是不是要换一个连一下”这种问题。</p>
 <h3><span id="fei_te_shu_shi_qi_yong_lan_deng_bei_fen">非特殊时期用蓝灯备份</span></h3>
-<div style="color:#32373c;background-color:#ff3860" class="wp-block-genesis-blocks-gb-notice gb-font-size-18 gb-block-notice" data-id="6a8953"><div class="gb-notice-title" style="color:#fff"><p>2020/04</p></div><div class="gb-notice-text" style="border-color:#ff3860"><p>目前蓝灯变得不好用了，我手上的替代是<a href="https://indx.cc/pandavpn" class="ek-link" rel="nofollow noopener" target="_blank">熊猫VPN</a>，技术上两者接近，都是基于加密SOCKS5协议。</p></div></div>
+<div style="color:#32373c;background-color:#ff3860" class="wp-block-genesis-blocks-gb-notice gb-font-size-18 gb-block-notice" data-id="6a8953"><div class="gb-notice-title" style="color:#fff"><p>2020/04</p></div><div class="gb-notice-text" style="border-color:#ff3860"><p>目前蓝灯变得不好用了，我手上的替代是<a href="https://www.pantoto.xyz/r/22216799" class="ek-link" rel="nofollow noopener" target="_blank">熊猫VPN</a>，技术上两者接近，都是基于加密SOCKS5协议。</p></div></div>
 <p>要是我的iPhone和iPad上能装蓝灯，我就很可能把它和VPN一同推荐，可惜到目前为止，<strong>蓝灯仍然不支持iOS设备</strong>。尽管如此，我还是一口气买里好几年的蓝灯专业版，把它装在我的Windows 10电脑和安卓手机上。</p>
 <p>有时候要紧急上一下外网，蓝灯的连接速度更快；有时候VPN会变得不怎么好用，比如客户端需要更新，我也会连上蓝灯来更新VPN往往更快。蓝灯的客户端也很好用，但可惜我还是把它当备胎来用，除了iOS上没法用，它只允许同时3个连接有点少，ExpressVPN等一线VPN都已提供至少5个同时连接，我有一台Windows笔记本，一个Windows平板，一个iPad，一个MacBook Pro笔记本，还有安卓和苹果手机各一部，蓝灯对我来说有点不够用。</p>
 <p>有不少小朋友都反映蓝灯不好用，我只能说这可能跟所在上网区域有关系，在我经常去的北京上海西安成都等城市，蓝灯一直都挺好用的，它是目前我能找到的可用性最好的备胎翻墙软件。因为设备多的关系，安卓和windows系统上它偶尔可以分担一下，iOS设备上基本全天开着VPN。</p>
 <p><strong>特殊时期提前准备好SSR节点</strong></p>
 <p>每年的年初中国政府开会，六月初，国庆节以及某些政治事件的突发，都会导致中国网络防火墙屏蔽加剧。我个人的经验，一般这些时候VPN和蓝灯都会挂掉，开始几天不是完全不能用，但断线变得频繁，速度也会变慢，然后中国就会进入网络戒严模式，所有的商用翻墙软件都会连不上，这一般要持续一周左右，这个时期各大VPN提供商都会专门为中国用户临时加开服务器、更新客户端或者调整算法，这些手段根据我这几年回国的上网经验，基本都没什么用，等风头过去，所有的翻墙软件又能立刻恢复使用，相信不少人都和我有一样的经验。到目前为止，我还没发现哪个商用翻墙软件能在特殊时期保持坚挺的，一个也没有。</p>
 <p>特殊时期翻墙上网，唯一的希望可能是私人的SSR节点。这是我个人的经验，今年（2019）国庆，这个经验被再次验证。我国庆回国，从9月29日开始发现VPN频繁断线，平时能秒连的蓝灯也老是卡在“正在建立连接…”状态，我意识到网络戒严要来了，问一个在广东的同学要了小飞机客户端程序，以下次来西安我请吃烤羊为代价，搞到了他架设在香港的一台私人SSR服务器（Vultr的主机）连接信息已做备用，到了10月3日晚上，VPN和蓝灯已经完全连不上了，我在Windows 10笔记本上打开小飞机客户端，用全局模式连上了那台香港服务器，略带欣喜地打开了google.com，虽然中途有几次看油管视频出现中断，香港的IP也看不了我在Netflix美国追的某美剧，但至少google和gmail还能较快地打开，我已经很满足了。</p>
-<p>我一般在进入特殊时期前两个礼拜准备好两个服务器，一个是商用的（如<a href="https://indx.cc/justmysocks" class="ek-link" rel="nofollow noopener" target="_blank">JustMySocks</a>），一个VPS自建，都有充足的服务器资源，基本万无一失。操作便利性方面，个人更喜欢商用SSR节点，但我发现自建的SSR服务器，如果运气好被屏蔽的概率更小，可能是因为商用节点用的人多流量大的原因。</p>
+<p>我一般在进入特殊时期前两个礼拜准备好两个服务器，一个是商用的（如<a href="https://justmysocks.net/members/aff.php?aff=15216" class="ek-link" rel="nofollow noopener" target="_blank">JustMySocks</a>），一个VPS自建，都有充足的服务器资源，基本万无一失。操作便利性方面，个人更喜欢商用SSR节点，但我发现自建的SSR服务器，如果运气好被屏蔽的概率更小，可能是因为商用节点用的人多流量大的原因。</p>
 
 </ol>
 </div>
