@@ -179,6 +179,10 @@
 <p>生活在中国大陆，或即将去那里旅行、学习、工作的人，都知道能否流畅翻墙（也叫科学上网）访问<a href="https://en.wikipedia.org/wiki/List_of_websites_blocked_in_mainland_China" target="_blank" rel="noopener">中国国内被墙的服务</a>，决定着我们在那里的生活质量。看Youtube、用Google搜索、用Gmail收发邮件、在Netflix/HBO追剧、在Reddit/Facebook群组里灌水、在国外MOOC平台上学习、连到日本、台湾节点打网游 … </p>
 
 <p>我持续追踪翻墙技术，长期关注VPN，SSR，WireGuard，蓝灯等技术，为读者推荐最新最好用的科学上网方法和工具。作者虽常年生活于海外，但因为学习与工作需要，经常需要回国，每次回中国最担心的问题就是回去以后能不能顺利访问外网，所以对这类软件特别关注，电脑和手机上常年装着十几个付费APP，以备不时之需，感谢国内上海/广州/西安/成都等城市的朋友们帮我测试。这几年翻墙越来越难，目前看来，VPN和加密代理仍然是主流，也是本站这几年来最多评测的一类科学上网工具。有读者评论说VPN技术早就过时了为什么还要用它来翻墙，其实很多人有所不知，现在很多翻墙工具虽然名字还叫“VPN”，实际上早就超越传统OpenVPN协议，连通率与性能大幅提升（如<a href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi" class="ek-link">ExpressVPN</a>的LightWay协议），现在能翻墙的VPN都是多协议，客户端会根据网络状况自动切换，绝大多数时候都不需要用户干预，所以对广大非专业用户来说，VPN仍然是翻墙首选。</p>
+ 
+ 
+![](https://github.com/fqmama/tizi/blob/main/files/1.jpg) 
+ 
 <h2><span id="2022nian_ru_he_fan_qiang">2022年如何翻墙</span></h2>
 <ol class="is-style-starred has-list-bullet-color" style="--ek-bullet-color:#000000">
 
