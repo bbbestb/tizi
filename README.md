@@ -196,13 +196,8 @@
 " class="ek-link" rel="nofollow noopener" target="_blank">JustMySocks</a>。</li>
 </ol>
 
+
 <!--
-<h3><span id="yi_wang_geng_xin">题外话</span></h3>
-<p>2020年9月底，大家熟知的第一科学上网工具ExpressVPN不再提供国内不翻墙直接访问购买的镜像。当前已下载安装的ExpressVPN客户端更新不受影响，但想要购买的新可能低多费些周折，可能的方法是用<a href="https://www.wallmama.com/free-vpn-china" class="ek-link">免费VPN</a>先翻墙上网，然后再打开<a href="https://indx.cc/exp" class="ek-link" rel="nofollow noopener" target="_blank">ExpressVPN官网</a>购买。ExpressVPN仍是目前穿墙能力最强也最值得购买的翻墙工具。</p>
-<p>2020年4月初：国内疫情防控得力，在武汉，人们又可以开心地吃上一碗热干面了 ：），一线翻墙工具和科学上网方法已经基本恢复了。</p>
-<p>2020年2月初：最近疫情敏感时期，国内网络管控升级，各翻墙方法都出现不同程度连接不稳定，速度变慢的情况，国内论坛上VPS被封的讨论也多了起来，ExpressVPN，PandaVPN，Astrill，蓝灯等工具仍然处于可用状态，但服务质量确实有所下降，若发现使用困难，请各位保持耐心，会过去的，也可以移步<a href="https://www.wallmama.com/best-vpn-china">中国VPN推荐</a>，找到客服联系方式及时退款，我很不想这么说，但可能最“快”的解决方法”是等网络恢复正常。请各位多包涵，祝大家早日度过难关。</p>
-
-
 <h3><span id="ben_wen_dao_du">本文导读</span></h3>
 <div class="wp-block-image is-style-circle-mask"><figure class="alignright is-resized"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20320%20480'%3E%3C/svg%3E" alt="翻墙与科学上网权威指南" class="wp-image-2365" width="320" height="480" data-lazy-srcset="https://www.wallmama.com/wp-content/uploads/2019/11/翻墙与科学上网.jpg 640w, https://www.wallmama.com/wp-content/uploads/2019/11/翻墙与科学上网-200x300.jpg 200w" data-lazy-sizes="(max-width: 320px) 100vw, 320px" data-lazy-src="https://www.wallmama.com/wp-content/uploads/2019/11/%E7%BF%BB%E5%A2%99%E4%B8%8E%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91.jpg"><noscript><img src="https://www.wallmama.com/wp-content/uploads/2019/11/%E7%BF%BB%E5%A2%99%E4%B8%8E%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91.jpg" alt="翻墙与科学上网权威指南" class="wp-image-2365" width="320" height="480" srcset="https://www.wallmama.com/wp-content/uploads/2019/11/翻墙与科学上网.jpg 640w, https://www.wallmama.com/wp-content/uploads/2019/11/翻墙与科学上网-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px"></noscript></figure></div>
 <ul><li><a href="https://www.wallmama.com/best-vpn-china/" class="ek-link">翻墙软件盘点，中国VPN推荐</a>：<br>介绍中国好用的VPN翻墙软件，如何购买、下载、安装、使用以及各自优缺点，适合所有读者。目前我们推荐的VPN依次为：<a class="rank-math-link" href="/best-vpn-china/#pandavpn">PandaVPN</a>，<a href="/best-vpn-china/#nordvpn" class="ek-link">NordVPN</a>，<a href="https://www.wallmama.com/best-vpn-china/#astrill" class="ek-link">AstrillVPN</a>, <a href="https://www.wallmama.com/best-vpn-china/#expressvpn">ExpressVPN</a>… 多数都无需翻墙即可从中国购买</li><li><a href="https://www.wallmama.com/%E6%97%A5%E6%9C%ACvpn/" class="ek-link">日本VPN推荐</a>：<br>推荐适合在中国使用的提供有效日本IP的日本VPN。</li><li><a href="https://www.wallmama.com/best-iphone-vpn-china/" class="ek-link">iOS翻墙</a>：<br>介绍最好用的iOS设备科学上网工具，一线服务商的无App配置快速翻墙方案，无需美国Apple ID，适合iphone，ipad用户。</li><li><a href="https://www.wallmama.com/%e7%94%b5%e8%84%91vpn%e7%bf%bb%e5%a2%99/" class="ek-link">电脑VPN翻墙攻略</a>：<br>介绍Windows，Mac等常用电脑操作系统翻墙方法，时候PC，苹果电脑用户。</li><li><a href="https://www.wallmama.com/best-android-vpn-china/" class="ek-link">安卓科学上网</a>：<br>介绍国内安卓手机用户如何购买、下载翻墙软件，适合Android手机、平板、电视用户。</li><li><a href="/ssr" class="ek-link">SSR节点分享</a>：<br>分享SSR机场和节点，包含想自建或可购买的第三方节点，适合偏爱SSR的用户。</li><li><a href="https://www.wallmama.com/%e7%bf%bb%e5%a2%99%e5%9b%9e%e5%9b%bd/" class="ek-link">翻墙回国</a>：<br>推荐提供中国大陆IP地址的VPN和代理服务，适合留学、工作或旅行途中需要访问国内音乐、电视电影服务的海外党朋友。</li><li><a href="/fqh" class="ek-link">翻墙后看什么</a><br>推荐墙外优质网站、自媒体、软件、工具、服务，适合所有读者。</li><li><a href="https://www.wallmama.com/vpn-download/" class="ek-link">VPN下载其实很简单</a><br>从国内下载VPN没你想象的那么难。</li></ul>
@@ -396,7 +391,7 @@
  
  <li><a href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitfqmama&aff_click_id=tizi" class="ek-link" rel="nofollow noopener" target="_blank">NordVPN</a>：这个东西以前不怎么好用，但2020年后，经过开发团队的努力，终于抛弃了对Obfuscated Server的依赖，现在变得挺好用了</li>
  
- <li><a href="https://indx.cc/ivy" class="ek-link" rel="nofollow noopener" target="_blank">Ivacy</a>：相对比较低调，价格中上，可以作为备用的选择</li>
+ <li><a href="https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitfqmama&data2=tizi" class="ek-link" rel="nofollow noopener" target="_blank">Ivacy</a>：相对比较低调，价格中上，可以作为备用的选择</li>
  
 
  </ul>
