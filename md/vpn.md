@@ -7,4 +7,4 @@
 
 
 
-### [返回梯子评测主页)(https://github.com/fqmama/tizi)
+### [返回梯子评测主页](https://github.com/fqmama/tizi)
