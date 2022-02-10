@@ -299,6 +299,11 @@
 <p>我是蓝灯的老用户，从它推出开始就一直在用，到目前为止它仍是我最喜欢的翻墙工具之一。它是少数提供设计良好的客户端且能从国内直接下载的，虽然<strong>不支持iOS</strong>是个不小的遗憾，但我自己在Windows/Mac/Android上使用的感受是只要不在敏感时期，还是相当好用的，打开几乎秒连，速度也非常快。不过过去一年随着防火墙越来越高，蓝灯掉线的频率也在逐月增加，所以我现在只把它当VPN备份来用。</p>
 <div class="i2-pros-cons-icons i2-pros-cons-main-wrapper theme-i2pc-theme-00 no-title no-button no-space-between-column no-outer-border no-round-corner no-heading-icon"><div class="i2-pros-cons-wrapper"><div class="i2-pros"><strong class="i2-pros-title">优点</strong><div class="section"><ul class="has-icon"><li><i class="icon icon-thumbs-o-up"></i>基于SOCK5协议，建立连接快，传输开销比VPN小</li><li><i class="icon icon-thumbs-o-up"></i>是商业软件，相比SSR有更好的客服支持</li><li><i class="icon icon-thumbs-o-up"></i>有设计良好，好用的客户端</li></ul></div></div><div class="i2-cons"><strong class="i2-cons-title">缺点</strong><div class="section"><ul class="has-icon"><li><i class="icon icon-thumbs-o-down"></i>不支持iOS设备</li><li><i class="icon icon-thumbs-o-down"></i>只支持自动连接，不适合需要手动控制连接IP的场景</li><li><i class="icon icon-thumbs-o-down"></i>隐私保护能力较一线VPN弱</li></ul></div></div></div></div>
 <div style="text-align:center" class="wp-block-genesis-blocks-gb-button gb-block-button"><a href="https://github.com/fqmama/tizi/blob/main/md/lantern.md" class="gb-button gb-button-shape-square gb-button-size-extralarge" style="color:#ffffff;background-color:#cf2e2e">蓝灯评测</a></div>
+ 
+ 
+ ![](https://github.com/fqmama/tizi/blob/main/files/3.png)
+ 
+ 
 <h2><span id="zi_ji_da_jian">自己搭建</span></h2>
 <div style="color:#32373c;background-color:#ff3860" class="wp-block-genesis-blocks-gb-notice gb-font-size-18 gb-block-notice" data-id="4b027f"><div class="gb-notice-title" style="color:#fff"><p>提醒</p></div><div class="gb-notice-text" style="border-color:#ff3860"><p>自己搭梯子需要一定的Linux系统知识和命令行操作技巧，加上单IP地址被墙的潜在风险一直都很大，一旦被封用户不得不给服务器换IP，各厂商方法不一，这些操作一般情况下非小白用户所能胜任。</p><p>虽然社区里确实也存在不少方便的一键脚本， 有兴趣的读者可以自己尝试， 虽然换IP也未必就非常麻烦，但是本站用户绝大多数为零技术基础的小白用户，原则上我不推荐自己搭建。如果读者确实很好奇，也不怕折腾，可以买一台便宜的VPS开始玩起来。</p><p>自建翻墙需要私人服务器（VPS），可以考虑Vultr主机，IP资源非常多，国内可直接访问，支持支付宝微信付款，<strong>新用户注册送50美金</strong>。尽量避开日本节点，大部分IP已经被墙。2.5美金每月的套餐很难买到，可以考虑5美金每月的那个，每月提供1TB流量，应该够用。 </p></div></div>
 <h3><span id="SSR">SSR</span></h3>
