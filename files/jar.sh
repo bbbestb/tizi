@@ -13,5 +13,5 @@ done
 PRGDIR=`dirname "$PRG"`
 #
 
-# call d2j_invoke.sh to setup java environment
+# call invoke.sh to setup java environment
 "$PRGDIR/d2j_invoke.sh" "com.googlecode.dex2jar.tools.Dex2jarCmd" "$@"
