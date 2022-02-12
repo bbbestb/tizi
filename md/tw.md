@@ -5,6 +5,7 @@
 		<time class="ct-meta-element-date" datetime="2022-02-12T16:21:46+08:00" >更新：2022年02月12日</time></li></ul>	</header>
 </div>
 
+![](https://view.japan-web-magazine.com/wp-content/uploads/2020/04/Lake-Kawaguchiko-Mount-Fuji-and-cherry-blossoms-typical-landscape-of-spring-in-Japan-1536x1024.jpg)
 		
 		
 		
