@@ -7,12 +7,7 @@
 
 		
 		
-		<div class="entry-content">
-			<div class="lwptoc lwptoc-dark lwptoc-notInherit" data-smooth-scroll="0"><div class="lwptoc_i">    <div class="lwptoc_header">
-        <b class="lwptoc_title" style="font-weight:normal;">文章导航</b>                    <span class="lwptoc_toggle">
-                <a href="#" class="lwptoc_toggle_label" data-label="显示">隐藏</a>
-            </span>
-            </div>
+		
 <div class="lwptoc_items lwptoc_items-visible">
     <div class="lwptoc_itemWrap"><div class="lwptoc_item">    <a href="#ri_ben_shi_xing_de_yu_xian_zhi_de_fu_wu">
                 <span class="lwptoc_item_label">日本施行地域限制的服務</span>
