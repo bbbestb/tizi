@@ -173,7 +173,7 @@
 <h3><span id="NordVPN">NordVPN</span></h3>
 
 
-
+![](../files/jp2.jpg)
 
 
 <div class="wp-container-6205cd6f730ec wp-block-buttons is-content-justification-center">
@@ -239,20 +239,11 @@
 
 
 
-<figure class="wp-block-image size-large is-resized" id="nordvpn"><a href="https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-scaled.jpg"><picture class="wp-image-769">
-<source type="image/webp" data-lazy-srcset="https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-1024x577.jpg.webp 1024w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-300x169.jpg.webp 300w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-768x433.jpg.webp 768w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-1536x866.jpg.webp 1536w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-2048x1155.jpg.webp 2048w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20577&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
-<img src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20577&#039;%3E%3C/svg%3E" alt="NordVPN Protected" width="1024" height="577" data-lazy-srcset="https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-1024x577.jpg 1024w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-300x169.jpg 300w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-768x433.jpg 768w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-1536x866.jpg 1536w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-2048x1155.jpg 2048w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-1024x577.jpg"/>
-</picture>
-<noscript><picture class="wp-image-769">
-<source type="image/webp" srcset="https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-1024x577.jpg.webp 1024w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-300x169.jpg.webp 300w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-768x433.jpg.webp 768w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-1536x866.jpg.webp 1536w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-2048x1155.jpg.webp 2048w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-<img src="https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-1024x577.jpg" alt="NordVPN Protected" width="1024" height="577" srcset="https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-1024x577.jpg 1024w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-300x169.jpg 300w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-768x433.jpg 768w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-1536x866.jpg 1536w, https://vpns.tw/wp-content/uploads/2021/06/NordVPN-Protected-2048x1155.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-</picture>
-</noscript></a></figure>
 
 
 
 <div class="wp-container-6205cd6f73d60 wp-block-buttons is-content-justification-center">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://indx.cc/nrd" rel="nofollow noopener" target="_blank">NordVPN官方網站</a></div>
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitfqmama&aff_sub2=tizi" rel="nofollow noopener" target="_blank">NordVPN官方網站</a></div>
 </div>
 
 
