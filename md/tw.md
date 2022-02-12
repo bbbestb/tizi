@@ -71,45 +71,14 @@
 ![](https://camo.githubusercontent.com/c6bf4f391a516c0310781cbce10afe32aa3094f9343557e0cdf5d458e4ff1d21/68747470733a2f2f76706e732e74772f77702d636f6e74656e742f75706c6f6164732f323032312f30352f25453625393725413525453625394325414356504e2d31303234783438302e6a7067)
 
 
-<figure class="wp-block-image size-large"><img width="1024" height="480" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20480'%3E%3C/svg%3E"  class="wp-image-640" data-lazy-srcset="https://vpns.tw/wp-content/uploads/2021/05/日本VPN-1024x480.jpg 1024w, https://vpns.tw/wp-content/uploads/2021/05/日本VPN-300x141.jpg 300w, https://vpns.tw/wp-content/uploads/2021/05/日本VPN-768x360.jpg 768w, https://vpns.tw/wp-content/uploads/2021/05/日本VPN.jpg 1280w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://vpns.tw/wp-content/uploads/2021/05/%E6%97%A5%E6%9C%ACVPN-1024x480.jpg"><noscript><img width="1024" height="480" src="https://vpns.tw/wp-content/uploads/2021/05/%E6%97%A5%E6%9C%ACVPN-1024x480.jpg" alt="日本VPN" class="wp-image-640" srcset="https://vpns.tw/wp-content/uploads/2021/05/日本VPN-1024x480.jpg 1024w, https://vpns.tw/wp-content/uploads/2021/05/日本VPN-300x141.jpg 300w, https://vpns.tw/wp-content/uploads/2021/05/日本VPN-768x360.jpg 768w, https://vpns.tw/wp-content/uploads/2021/05/日本VPN.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px"></noscript></figure>
-
-
 
 <ul><li><a href="https://www.fujitv.co.jp/" class="rank-math-link" target="_blank" rel="noopener">富士電視臺</a>：視訊類內容限制</li><li><a href="https://www.nhk.or.jp/" class="rank-math-link" target="_blank" rel="noopener">NHK</a>：視訊類內容限制</li><li><a href="https://www.tv-asahi.co.jp/" class="rank-math-link" target="_blank" rel="noopener">朝日電視臺</a>：視訊類內容限制</li><li><a href="https://gyao.yahoo.co.jp/" class="rank-math-link" target="_blank" rel="noopener">雅虎日本視訊區</a>：整站限制</li><li><a href="https://www.netflix.com/jp/" class="rank-math-link" target="_blank" rel="noopener">Netflix日本</a>：整站限制</li><li><a href="https://tver.jp/" class="rank-math-link" target="_blank" rel="noopener">TVer</a>：整站限制</li><li><a href="https://disneyplus.disney.co.jp/" class="rank-math-link" target="_blank" rel="noopener">Disney+日本</a>：整站限制</li><li><a href="https://line.me/ja/" class="rank-math-link" target="_blank" rel="noopener">LINE</a>：貼圖與部分功能</li><li><a href="https://www.nintendo.co.jp/" class="rank-math-link" target="_blank" rel="noopener">Nintendo</a>：商店限區</li><li><a href="https://www.apple.com/jp/app-store/" class="rank-math-link" target="_blank" rel="noopener">日本APP STORE</a>：商店限區</li><li><a href="https://na.leagueoflegends.com/ja-jp/" class="rank-math-link" target="_blank" rel="noopener">英雄聯盟日本</a>：伺服器分割槽與玩家賬號限制</li><li><a href="https://www.playstation.com/ja-jp/" class="rank-math-link" target="_blank" rel="noopener">PlayStation日服</a>：商店限區</li></ul>
-
-
-<div class="wpd-inline-shortcode wpd-inline-closed" id="wpd-inline-3">分享你知道的優質日本線上服務<div class="wpd-inline-icon-wrapper"><svg class="wpd-inline-icon wpd-ignored" xmlns="https://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24"><path class="wpd-inline-icon-first" d="M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-2 12H6v-2h12v2zm0-3H6V9h12v2zm0-3H6V6h12v2z"></path><path class="wpd-inline-icon-second" d="M0 0h24v24H0z"></path></svg><div class="wpd-inline-icon-count">0</div><div class="wpd-inline-form-wrapper"><div class="wpd-inline-form-question">你還知道哪些限制IP的日本線上服務？<span class="wpd-inline-form-close"><a href="#">x</a></span></div></div></div></div>
 
 
 
 <h2><span id="ri_benVPN_tui_jian_huo_qu_ri_benIP_jie_chu_de_yu_xian_zhi">日本VPN推薦，獲取日本IP，解除地域限制</span></h2>
 
 
-<!--presto-player:video_id=1--><figure class="wp-block-video presto-block-video  presto-provider-youtube" style="--plyr-color-main: #00b3ff; --presto-player-logo-width: 150px; ">
-    <presto-player id="presto-player-1" src="//www.youtube.com/embed/ah_bojnq8U0?iv_load_policy=3&amp;modestbranding=1&amp;playinline=0&amp;showinfo=0&amp;rel=0&amp;enablejsapi=1" media-title="" css="" class="presto-video-id-1 presto-preset-id-4" skin="" icon-url="https://vpns.tw/wp-content/plugins/presto-player/img/sprite.svg" preload="" poster="//img.youtube.com/vi/ah_bojnq8U0/maxresdefault.jpg">
-        
-    <div class="presto-iframe-fallback-container">
-        <iframe style="width: 100%" class="presto-fallback-iframe" id="presto-iframe-fallback-1" data-src="https://www.youtube.com/embed/ah_bojnq8U0?iv_load_policy=3&amp;modestbranding=1&amp;playsinline=1&amp;showinfo=0&amp;rel=0&amp;enablejsapi=1" allowfullscreen allowtransparency allow="autoplay"></iframe>
-    </div>
-
-    </presto-player>
-</figure>        <script type="rocketlazyloadscript">
-            var player = document.querySelector('presto-player#presto-player-1');
-            player.video_id = 1;
-                                                player.preset = {"id":4,"name":"Minimal","slug":"minimal","icon":"controls-play","skin":"","play-large":true,"rewind":false,"play":false,"fast-forward":false,"progress":false,"current-time":false,"mute":false,"volume":false,"speed":false,"pip":false,"fullscreen":false,"reset_on_end":true,"auto_hide":false,"captions_enabled":false,"save_player_position":false,"sticky_scroll":false,"sticky_scroll_position":"bottom right","hide_youtube":true,"lazy_load_youtube":false,"hide_logo":true,"border_radius":0,"caption_style":"","caption_background":"","is_locked":true,"email_collection":[""],"action_bar":[""],"created_by":1,"created_at":"2021-05-29 23:29:38","updated_at":"2021-05-29 23:29:38","deleted_at":"","cta":[""],"captions":false,"play_video_viewport":false,"watermark":[""],"on_video_end":""};
-                                                                player.chapters = [];
-                                                                player.overlays = [];
-                                                                player.tracks = [];
-                                                                player.branding = {"logo":"","color":"#00b3ff","logo_width":150};
-                                                                player.blockAttributes = {"id":1,"src":"https:\/\/www.youtube.com\/watch?v=ah_bojnq8U0","preset":4,"video_id":"ah_bojnq8U0","color":"#00b3ff","pip":true,"fullscreen":true,"captions":false,"hideControls":true,"playLarge":true,"chapters":[],"overlays":[],"speed":true,"title":""};
-                                                                                            player.skin = "";
-                                                                player.analytics = false;
-                                                                player.automations = true;
-                                                                player.provider = "youtube";
-                                                                player.video_id = 1;
-                                                                player.provider_video_id = "ah_bojnq8U0";
-                                                                player.youtube = {"noCookie":false,"channelId":"","show_count":false};
-                                    </script>
         
 
 
@@ -117,20 +86,12 @@
 
 
 
-<figure class="wp-block-image size-large" id="expressvpn"><picture class="wp-image-691">
-<source type="image/webp" data-lazy-srcset="https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo.png.webp 1000w, https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo-300x117.png.webp 300w, https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo-768x299.png.webp 768w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201000%20389&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1000px) 100vw, 1000px"/>
-<img width="1000" height="389" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201000%20389&#039;%3E%3C/svg%3E" alt="expressvpn logo" data-lazy-srcset="https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo.png 1000w, https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo-300x117.png 300w, https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo-768x299.png 768w" data-lazy-sizes="(max-width: 1000px) 100vw, 1000px" data-lazy-src="https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo.png"/>
-</picture>
-<noscript><picture class="wp-image-691">
-<source type="image/webp" srcset="https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo.png.webp 1000w, https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo-300x117.png.webp 300w, https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo-768x299.png.webp 768w" sizes="(max-width: 1000px) 100vw, 1000px"/>
-<img width="1000" height="389" src="https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo.png" alt="expressvpn logo" srcset="https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo.png 1000w, https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo-300x117.png 300w, https://vpns.tw/wp-content/uploads/2021/06/expressvpn-logo-768x299.png 768w" sizes="(max-width: 1000px) 100vw, 1000px"/>
-</picture>
-</noscript></figure>
+![](https://camo.githubusercontent.com/f848db6113891a05077e43f99f2ff995344e5bef64f2a6e30e0f2c3b9d091cf0/68747470733a2f2f76706e732e74772f77702d636f6e74656e742f75706c6f6164732f323032312f30362f6578707265737376706e2d6c6f676f2e706e67)
 
 
 
 <div class="wp-container-6205cd6f72486 wp-block-buttons is-content-justification-center">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://indx.cc/exp" rel="nofollow noopener" target="_blank">ExpressVPN官方網站</a></div>
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi" rel="nofollow noopener" target="_blank">ExpressVPN官方網站</a></div>
 </div>
 
 
@@ -171,7 +132,7 @@
 
 
 
-<p class="pro">經<a href="https://www.expressvpn.com/blog/pwc-audits-expressvpn-servers-to-confirm-essential-privacy-protections/" class="rank-math-link" target="_blank" rel="noopener">第三方審計</a>的無日誌政策，無硬碟的伺服器，斷電即擦除，已被<a href="https://en.wikipedia.org/wiki/ExpressVPN#Assassination_of_Andrei_Karlov" class="rank-math-link" target="_blank" rel="noopener">國際事件</a>證實。如果你重視上網隱私，你應該首先考慮ExpressVPN，在隱私保護這一點上，沒有任何一個VPN比它做得更好。</p>
+<p class="pro">經第三方審計的無日誌政策，無硬碟的伺服器，斷電即擦除，已被<a href="https://en.wikipedia.org/wiki/ExpressVPN#Assassination_of_Andrei_Karlov" class="rank-math-link" target="_blank" rel="noopener">國際事件</a>證實。如果你重視上網隱私，你應該首先考慮ExpressVPN，在隱私保護這一點上，沒有任何一個VPN比它做得更好。</p>
 
 
 
@@ -204,24 +165,14 @@
 
 
 <div class="wp-container-6205cd6f72ad1 wp-block-buttons is-content-justification-center">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://indx.cc/exp" rel="nofollow noopener" target="_blank">ExpressVPN官方網站</a></div>
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi" rel="nofollow noopener" target="_blank">ExpressVPN官方網站</a></div>
 </div>
 
 
 
-<h3><span id="SurfShark">SurfShark</span></h3>
+<h3><span id="NordVPN">NordVPN</span></h3>
 
 
-
-<figure class="wp-block-image size-large" id="surfshark"><a href="https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01.png"><picture class="wp-image-767">
-<source type="image/webp" data-lazy-srcset="https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-1024x614.png.webp 1024w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-300x180.png.webp 300w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-768x461.png.webp 768w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01.png.webp 1280w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20614&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"/>
-<img width="1024" height="614" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%201024%20614&#039;%3E%3C/svg%3E" alt="Surfshark Preview 01" data-lazy-srcset="https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-1024x614.png 1024w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-300x180.png 300w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-768x461.png 768w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01.png 1280w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-1024x614.png"/>
-</picture>
-<noscript><picture class="wp-image-767">
-<source type="image/webp" srcset="https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-1024x614.png.webp 1024w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-300x180.png.webp 300w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-768x461.png.webp 768w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01.png.webp 1280w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-<img width="1024" height="614" src="https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-1024x614.png" alt="Surfshark Preview 01" srcset="https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-1024x614.png 1024w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-300x180.png 300w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01-768x461.png 768w, https://vpns.tw/wp-content/uploads/2021/06/Surfshark-Preview-01.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px"/>
-</picture>
-</noscript></a></figure>
 
 
 
