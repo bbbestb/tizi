@@ -86,7 +86,7 @@
 
 
 
-![](https://camo.githubusercontent.com/f848db6113891a05077e43f99f2ff995344e5bef64f2a6e30e0f2c3b9d091cf0/68747470733a2f2f76706e732e74772f77702d636f6e74656e742f75706c6f6164732f323032312f30362f6578707265737376706e2d6c6f676f2e706e67)
+![https://github.com/fqmama/tizi](https://camo.githubusercontent.com/f848db6113891a05077e43f99f2ff995344e5bef64f2a6e30e0f2c3b9d091cf0/68747470733a2f2f76706e732e74772f77702d636f6e74656e742f75706c6f6164732f323032312f30362f6578707265737376706e2d6c6f676f2e706e67)
 
 
 
@@ -173,7 +173,7 @@
 <h3><span id="NordVPN">NordVPN</span></h3>
 
 
-![](../files/jp2.jpg)
+![https://github.com/fqmama/tizi](../files/jp2.jpg)
 
 
 <div class="wp-container-6205cd6f730ec wp-block-buttons is-content-justification-center">
@@ -268,7 +268,7 @@
 
 
 
-<p class="pro">經過<a href="https://nordvpn.com/zh/blog/nordvpn-audit/" target="_blank" rel="noopener">三方審計</a>的無日誌政策。</p>
+<p class="pro">經過三方審計的無日誌政策。</p>
 
 
 
@@ -317,78 +317,9 @@
 
 
 <div class="wp-container-6205cd6f742b7 wp-block-buttons is-content-justification-center">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://indx.cc/nrd" rel="nofollow noopener" target="_blank">NordVPN官方網站</a></div>
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitfqmama&aff_sub2=tizi" rel="nofollow noopener" target="_blank">NordVPN官方網站</a></div>
 </div>
 
-
-
-<h3><span id="VyprVPN">VyprVPN</span></h3>
-
-
-
-
-
-
-
-<p>VyprVPN提供日本節點。</p>
-
-
-
-<p>
-
-
-
-</p><p class="pro">總部位於資料隱私保護法律嚴苛的中立國：瑞士。</p>
-
-
-
-<p class="pro">全球2百萬使用者。</p>
-
-
-
-<p class="pro">VyprVPN的伺服器都是自有的，而非租用第三方雲服務的主機。</p>
-
-
-
-<p class="pro">客戶端支援絕大多數裝置，包括絕大多數iOS和Android裝置。</p>
-
-
-
-<p class="pro">支援5臺裝置同時連線。</p>
-
-
-
-<p class="pro">支援 <span class="glossary-tooltip glossary-term-60" tabindex="0"><span class="glossary-link"><a href="https://www.wireguard.com/" target="_blank">WireGuard</a></span><span class="hidden glossary-tooltip-content clearfix"><span class="glossary-tooltip-text">一种比传统VPN协议更高效更安全的加密传输协议。</span></span></span> 協議，無DNS洩露，支援 <span class="glossary-tooltip glossary-term-73" tabindex="0"><span class="glossary-link"><a href="https://www.youtube.com/watch?v=HZqZ5oMBJ7A" target="_blank">Kill Switch</a></span><span class="hidden glossary-tooltip-content clearfix"><span class="glossary-tooltip-text">網路在VPN與非VPN間切換時（如VPN軟體正在連線或暫時斷線）會臨時阻止出口流量，防止資料洩露。</span></span></span> ，經過<a class="rank-math-link" href="https://www.vyprvpn.com/audit.pdf" target="_blank" rel="noopener">第三方審計</a>的無日誌（No-Logs）政策。</p>
-
-
-
-<p class="pro">廣泛支援主流流媒體平臺（如Hulu、Netflix）。</p>
-
-
-
-<p class="pro">獨創變色龍協議（Chameleon Protocol），是極少數能幫助中國網民翻牆上網的VPN。</p>
-
-
-
-<p class="pro">提供能獨立部署私有伺服器的商用方案。</p>
-
-
-
-<p class="pro">承諾30天無理由退款以及24/7實時線上客服。</p>
-
-
-
-<p class="con">已不再接受支付寶/微信付款，對中國大陸使用者來說不太方便。</p>
-
-
-
-<p class="con">變色龍協議下的連線與傳輸速度都不算快。</p>
-
-
-
-<div class="wp-container-6205cd6f74ae7 wp-block-buttons is-content-justification-center">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://indx.cc/vyr" rel="nofollow noopener" target="_blank">VyprVPN官方網站</a></div>
-</div>
 
 
 
@@ -401,18 +332,11 @@
 
 
 
-
-
-
-
-
-
-
 <p>PandaVPN提供的日本東京和大阪的節點，全線BGPA線路，大量NETFLIX IP。</p>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-full"><img width="480" height="660" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20480%20660'%3E%3C/svg%3E" alt="PandaVPN日本節點" class="wp-image-696" data-lazy-src="https://vpns.tw/wp-content/uploads/2021/06/PandaVPN%E6%97%A5%E6%9C%AC%E7%AF%80%E9%BB%9E.png"><noscript><img width="480" height="660" src="https://vpns.tw/wp-content/uploads/2021/06/PandaVPN%E6%97%A5%E6%9C%AC%E7%AF%80%E9%BB%9E.png" alt="PandaVPN日本節點" class="wp-image-696"></noscript></figure></div>
+![https://github.com/fqmama/tizi](https://camo.githubusercontent.com/3a9849809af5084f19d73fffabeb4dfe605d9498e245b773e0612d5c4bbe007c/68747470733a2f2f76706e732e74772f77702d636f6e74656e742f75706c6f6164732f323032312f30362f50616e646156504e2545362539372541352545362539432541432545372541462538302545392542422539452e706e67)
 
 
 
