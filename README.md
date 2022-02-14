@@ -181,7 +181,7 @@
 <p>我持续追踪翻墙技术，长期关注VPN，SSR，WireGuard，蓝灯等技术，为读者推荐最新最好用的科学上网方法和工具。作者虽常年生活于海外，但因为学习与工作需要，经常需要回国，每次回中国最担心的问题就是回去以后能不能顺利访问外网，所以对这类软件特别关注，电脑和手机上常年装着十几个付费APP，以备不时之需，感谢国内上海/广州/西安/成都等城市的朋友们帮我测试。这几年翻墙越来越难，目前看来，VPN和加密代理仍然是主流，也是本站这几年来最多评测的一类科学上网工具。有读者评论说VPN技术早就过时了为什么还要用它来翻墙，其实很多人有所不知，现在很多翻墙工具虽然名字还叫“VPN”，实际上早就超越传统OpenVPN协议，连通率与性能大幅提升（如<a href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi" class="ek-link">ExpressVPN</a>的LightWay协议），现在能翻墙的VPN都是多协议，客户端会根据网络状况自动切换，绝大多数时候都不需要用户干预，所以对广大非专业用户来说，VPN仍然是翻墙首选。</p>
  
  
-![](https://github.com/fqmama/tizi/blob/main/files/1.jpg) 
+![](https://raw.githubusercontent.com/fqmama/tizi/95aafe12d5862e306776031ecd9f039299563439/files/1.jpg) 
  
 <h2><span id="2022nian_ru_he_fan_qiang">2022年如何翻墙</span></h2>
 <ol class="is-style-starred has-list-bullet-color" style="--ek-bullet-color:#000000">
@@ -393,7 +393,7 @@
 <ol><li>除香港与台湾节点外，其余节点我认为都不适合用作游戏翻墙使用，日本机房的Ping值已经普遍在150ms或以上，也不适合玩游戏</li><li>上面所有节点只要连上都可看油管视频，只不过个别软件的个别节点缓冲率稍高，但720p下缓冲都不多，视频很流畅，1080p缓冲会常见一点</li><li>香港、日本、美西节点应该是翻墙首选，其它地区的节点可以偶尔拿来使用</li><li><a href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi" class="ek-link" rel="nofollow noopener" target="_blank">ExpressVPN</a>的最佳节点为香港、日本、美国洛杉矶，<a href="https://www.pantoto.xyz/r/22216799" class="ek-link" rel="nofollow noopener" target="_blank">PandaVPN</a>的最佳节点为香港备用节点，不管你用什么科学上网工具，香港应该是第一选择</li></ol>
  
  
- ![](https://github.com/fqmama/tizi/blob/main/files/5.jpg)
+ ![](https://raw.githubusercontent.com/fqmama/tizi/9825d5bb5f66da976c6806ab5eb9a535af8bf563/files/5.jpg)
  
 <h2><span id="qiang_ma_ma_ping_shi_ru_he_fan_qiang">我平时如何翻墙</span></h2>
 <p>我的情况可能比大多数人复杂，所以需求也比较多。首先我一年大概有四分之三的时间生活在国外，其余时间（主要是中国传统节日）回中国探亲休假，在国外我主要在纽约和西雅图之间颠簸，一年五六次的样子，偶尔会去加拿大。回国的时候，我的航班经常过北京和上海，也经常在这两个城市中转或逗留更长时间，一般不超过一周，主要就是找那里的小伙伴闲话家常，然后回西安和家人团聚，在哪里停留三到四周的时间，期间可能会到国内别的城市（如成都）去玩。</p>
