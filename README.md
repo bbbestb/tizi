@@ -246,7 +246,7 @@
 <p>你知不知道<a href="https://udemy.com" class="ek-link" target="_blank" rel="noopener">Udemy</a>上的很多课程，不管是你想学一门新的程序设计语言，还是掌握人像摄影技巧，又或是Maya 3D + Blender设计软件的高级套路，你都可以点点鼠标找到优质讲解者，并且已你完全能负担的价格买下来。在这个年代，普通人能如此轻松地获得如此优质的国际化的学习资料，我们应该感到幸福。像这样的平台，还有<a href="https://alternative.me/udemy" class="ek-link" target="_blank" rel="noopener">很多</a>，它们大多数都需要翻墙才能快速访问。</p>
  
 
- ![](https://github.com/fqmama/tizi/blob/main/files/2.png)
+ ![](https://raw.githubusercontent.com/fqmama/tizi/95aafe12d5862e306776031ecd9f039299563439/files/2.png)
  
  
 <h2><span id="qiang_wei_he_cun_zai">墙为何存在？</span></h2>
@@ -301,7 +301,7 @@
 <div style="text-align:center" class="wp-block-genesis-blocks-gb-button gb-block-button"><a href="https://github.com/fqmama/tizi/blob/main/md/lantern.md" class="gb-button gb-button-shape-square gb-button-size-extralarge" style="color:#ffffff;background-color:#cf2e2e">蓝灯评测</a></div>
  
  
- ![](https://github.com/fqmama/tizi/blob/main/files/3.png)
+ ![](https://raw.githubusercontent.com/fqmama/tizi/95aafe12d5862e306776031ecd9f039299563439/files/3.png)
  
  
 <h2><span id="zi_ji_da_jian">自己搭建</span></h2>
