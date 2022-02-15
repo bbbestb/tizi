@@ -13,7 +13,7 @@
 <main id="main" class="site-main">
 <article class="post-2162 page type-page status-publish ast-article-single remove-featured-img-padding" id="post-2162" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
 <header class="entry-header ast-no-thumbnail ast-no-meta">
-<h1 class="entry-title" itemprop="headline">✅✅ 梯子：翻墙与科学上网指南，全网动态更新 ✅✅</h1> </header>
+<h1 class="entry-title" itemprop="headline">✅✅ 梯子：2022年翻墙与科学上网指南，全网动态更新 ✅✅</h1> </header>
 <div class="entry-content clear" itemprop="text">
 <div class="lwptoc lwptoc-inherit" data-smooth-scroll="1" data-smooth-scroll-offset="100"><div class="lwptoc_i"> <div class="lwptoc_header">
 <b class="lwptoc_title">导航</b> <span class="lwptoc_toggle">
@@ -23,12 +23,8 @@
 <ul class="lwptoc_itemWrap"><li class="lwptoc_item"> <a href="#2022nian_ru_he_fan_qiang">
 <span class="lwptoc_item_label">2022年如何翻墙</span>
 </a>
-<ul class="lwptoc_itemWrap"><li class="lwptoc_item"> <a href="#yi_wang_geng_xin">
-<span class="lwptoc_item_label">以往更新</span>
-</a>
-</li><li class="lwptoc_item"> <a href="#ben_wen_dao_du">
-<span class="lwptoc_item_label">本文导读</span>
-</a>
+<ul class="lwptoc_itemWrap"><li class="lwptoc_item"> 
+ 
 </li></ul></li><li class="lwptoc_item"> <a href="#fan_qiang_shi_fou_wei_fa">
 <span class="lwptoc_item_label">❤❤ 翻墙是否违法？ ❤❤</span>
 </a>
