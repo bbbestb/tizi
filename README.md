@@ -214,6 +214,7 @@
 | Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi) | - |
 | Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitfqmama&data2=tizi) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitfqmama/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitfqmama&data2=tizi) |
 | 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) | 
+ | Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=gitfqmm&data2=tizi) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=gitfqmm&data2=tizi) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitfqmm&data2=tizi) |
  
 <h2><span id="zhong_guo_an_quan_fan_qiang_shang_wang_xu_zhi">中国安全翻墙上网须知</span></h2>
 <h3><span id="bu_yao_zai_guo_nei_wang_luo_san_bu_xin_xi">不要在国内网络散布信息</span></h3>
@@ -263,7 +264,7 @@
 | Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi) | - |
 | Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitfqmama&data2=tizi) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitfqmama/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitfqmama&data2=tizi) |
 | 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
- 
+ | Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=gitfqmm&data2=tizi) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=gitfqmm&data2=tizi) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitfqmm&data2=tizi) |
  
 <h2><span id="shen_me_shi_min_gan_shi_qi">什么是敏感时期？</span></h2>
 <p>所谓“敏感时期”就是翻墙软件具体失灵的时期，敏感时期内几乎所有科学上网的企图都会破灭，所有的软件会遭遇禁闭，连不上，速度极慢，频繁断线等问题集中出现，这些时候基本上中国互联网处于“军事戒严”状态，信息出入境极其不自由，是技术上的国家局域网，每次敏感时期可持续约1-2周后恢复，大家有都可以像什么都没发生过那样翻墙科学上网了。</p>
@@ -341,7 +342,7 @@
 | Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi) | - |
 | Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitfqmama&data2=tizi) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitfqmama/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitfqmama&data2=tizi) |
 | 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
- 
+ | Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=gitfqmm&data2=tizi) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=gitfqmm&data2=tizi) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitfqmm&data2=tizi) |
  
 <h2><span id="qi_ta_ke_xue_shang_wang_gong_ju_dian_ping">其他科学上网工具点评</span></h2>
 <p>下面列举的这些翻墙工具或方法可能已经失效，请读者注意分辨。我应该不会专门去一一测试这些工具，因为并不主流，而且也很难做到长期安全有效。</p>
@@ -435,6 +436,7 @@
 | Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi) | - |
 | Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitfqmama&data2=tizi) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitfqmama/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitfqmama&data2=tizi) |
 | 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
+ | Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=gitfqmm&data2=tizi) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=gitfqmm&data2=tizi) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitfqmm&data2=tizi) |
  
  #### TODO 本文动态更新，老铁们可以关注
  #### [https://github.com/fqmama/tizi](https://github.com/fqmama/tizi)
