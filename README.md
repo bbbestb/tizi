@@ -188,7 +188,7 @@
 
 <li>如果你预算充足，也可以考虑<a href="https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitfqmama&data2=tizi" class="ek-link" rel="nofollow noopener" target="_blank">IvacyVPN</a>，这是目前国内很多老外在用的VPN。这个VPN非常低调，但一直保持着较高的连通率，据我国内的朋友反馈，多数时候速度也不错，缺点是设备支持相对没那么全，价钱偏贵。</li>
 
-<li>如果你买不到ExpressVPN等，你可以考虑用<a href="https://www.pankvyh.xyz/r/22216799" class="ek-link" rel="nofollow noopener" target="_blank">PandaVPN</a>，国内应该还可以买到。这应该是目前翻墙节点最多的类SSR科学上网工具，付费版提供的SVIP节点覆盖香港、台湾、韩国、日本、美国等到中国大陆最理想的线路。实用的智能模式可以只代理被墙网站。缺点是隐私政策不是很透明，个人觉得不适合对上网数据安全特别敏感的用户。</li>
+<li>如果你买不到ExpressVPN等，你可以考虑用<a href="https://billing.purevpn.com/aff.php?aff=42611&data1=gitfqmama&data2=tizi)" class="ek-link" rel="nofollow noopener" target="_blank">PureVPN</a>，国内应该还可以买到。这应该是目前翻墙节点最多的类SSR科学上网工具，付费版提供的SVIP节点覆盖香港、台湾、韩国、日本、美国等到中国大陆最理想的线路。实用的智能模式可以只代理被墙网站。缺点是隐私政策不是很透明，个人觉得不适合对上网数据安全特别敏感的用户。</li>
 
 
 
