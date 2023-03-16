@@ -417,7 +417,7 @@
  </ul>
 <p>ExpressVPN我用香港3，香港4，东京3等节点，不好连了换一个，基本不需要其它节点。电脑、手机上连香港大概平均40秒内连上，家里Wifi，手机4G网络都会偶尔断线，但绝大多数时候App能自动成功重连，<strong>基本可以顾自己做事</strong>，不用想“我现在能不能翻墙，是不是要换一个连一下”这种问题。</p>
 <h3><span id="fei_te_shu_shi_qi_yong_lan_deng_bei_fen">非特殊时期用蓝灯备份</span></h3>
-<div style="color:#32373c;background-color:#ff3860" class="wp-block-genesis-blocks-gb-notice gb-font-size-18 gb-block-notice" data-id="6a8953"><div class="gb-notice-title" style="color:#fff"><p>2020/04</p></div><div class="gb-notice-text" style="border-color:#ff3860"><p>目前蓝灯变得不好用了，我手上的替代是<a href="https://www.pantoto.xyz/r/22216799" class="ek-link" rel="nofollow noopener" target="_blank">熊猫VPN</a>，技术上两者接近，都是基于加密SOCKS5协议。</p></div></div>
+<div style="color:#32373c;background-color:#ff3860" class="wp-block-genesis-blocks-gb-notice gb-font-size-18 gb-block-notice" data-id="6a8953"><div class="gb-notice-title" style="color:#fff"><p>2020/04</p></div><div class="gb-notice-text" style="border-color:#ff3860"></div></div>
 <p>要是我的iPhone和iPad上能装蓝灯，我就很可能把它和VPN一同推荐，可惜到目前为止，<strong>蓝灯仍然不支持iOS设备</strong>。尽管如此，我还是一口气买里好几年的蓝灯专业版，把它装在我的Windows 10电脑和安卓手机上。</p>
 <p>有时候要紧急上一下外网，蓝灯的连接速度更快；有时候VPN会变得不怎么好用，比如客户端需要更新，我也会连上蓝灯来更新VPN往往更快。蓝灯的客户端也很好用，但可惜我还是把它当备胎来用，除了iOS上没法用，它只允许同时3个连接有点少，ExpressVPN等一线VPN都已提供至少5个同时连接，我有一台Windows笔记本，一个Windows平板，一个iPad，一个MacBook Pro笔记本，还有安卓和苹果手机各一部，蓝灯对我来说有点不够用。</p>
 <p>有不少小朋友都反映蓝灯不好用，我只能说这可能跟所在上网区域有关系，在我经常去的北京上海西安成都等城市，蓝灯一直都挺好用的，它是目前我能找到的可用性最好的备胎翻墙软件。因为设备多的关系，安卓和windows系统上它偶尔可以分担一下，iOS设备上基本全天开着VPN。</p>
