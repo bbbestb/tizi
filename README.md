@@ -327,7 +327,7 @@
 <h3><span id="V2Ray">V2Ray</span></h3>
 <p>个人没有正式用过这类工具，只读过一些文章。总体感觉是大体和SSR相似，优缺点也明显：</p>
 <div class="i2-pros-cons-icons i2-pros-cons-main-wrapper theme-i2pc-theme-00 no-title no-button no-space-between-column no-outer-border no-round-corner no-heading-icon"><div class="i2-pros-cons-wrapper"><div class="i2-pros"><strong class="i2-pros-title">优点</strong><div class="section"><ul class="has-icon"><li><i class="icon icon-thumbs-o-up"></i>是新技术，有“GFW不适应”红利，理论上穿墙能力“应该”较强</li></ul></div></div><div class="i2-cons"><strong class="i2-cons-title">缺点</strong><div class="section"><ul class="has-icon"><li><i class="icon icon-thumbs-o-down"></i>因为是新技术，各方面都没有SSR成熟</li><li><i class="icon icon-thumbs-o-down"></i>配置比SSR更复杂些</li></ul></div></div></div></div>
-<p>其余我这里不作过多点评，等到（可能的话）更多人使用，生态成熟起来了再说吧，总体来说它们目前还属于技术流翻墙者。</p>
+<p>其余我这里不作过多点评，等到（可能的话）更多人使用，生态成熟起来了再说吧，总体来说它们目前还属于技术流翻墙者。</p>x
 
  <h3><span id="WireGuard">WireGuard</span></h3>
  <!--
